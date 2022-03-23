@@ -1,0 +1,41 @@
+.caja{
+   
+    display: flex;   
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: wrap-reverse;
+    border-style: solid;   
+    
+}
+
+.rojo{
+    
+    width: 100px;
+	height: 100px;
+    font-size: 30px;
+    background-color: red;
+    text-align: center;
+    
+    
+    
+}
+.azul{
+    
+    width: 100px;
+	height: 100px;
+	font-size: 30px;
+    background-color: blue;
+    text-align: center;
+
+}
+.verde{
+    
+    width: 100px;
+	height: 100px;
+	font-size: 30px;
+    background-color: green;
+    text-align: center;
+    
+ 
+
+}

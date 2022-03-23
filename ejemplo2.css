@@ -1,0 +1,44 @@
+.caja{
+   
+    display: inline-flex;   
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-style: solid;   
+    
+}
+
+.rojo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100px;
+	height: 100px;
+    font-size: 30px;
+    background-color: red;
+    text-align: center;
+    
+    
+    
+}
+.azul{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100px;
+	height: 100px;
+	font-size: 30px;
+    background-color: blue;
+    text-align: center;
+
+}
+.verde{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100px;
+	height: 100px;
+	font-size: 30px;
+    background-color: green;
+    text-align: center;
+    
+ 
+
+}
